@@ -26,6 +26,10 @@
     .playlist > * {
         display: block;
     }
+    
+    .profile span {
+        display: inline;
+    }
 }
 /* TABLET MD */
 @media screen and (min-width: 700px) {
